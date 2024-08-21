@@ -1,0 +1,18 @@
+{
+  "name": "foriensnoavail",
+  "title": "Forien QL No Available Tab",
+  "description": "A module to override Forien's Quest Log and cosmetically remove the Available tab from the interface",
+  "version": "0.1",
+  "minimumCoreVersion": "10.0",
+  "compatibleCoreVersion": "10",
+  "authors": [
+    {
+      "name": "knoself",
+      "discord": "knoself"
+    }
+  ],
+  "esmodules": ["scripts/hide-available.js"],
+  "socket": true,
+  "manifest": "https://github.com/edgedoggo/foriensnoavail/releases/download/latest/module.json",
+  "download": "https://github.com/edgedoggo/foriensnoavail/releases/download/latest/foriensnoavail.zip"
+}
